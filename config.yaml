@@ -1,0 +1,6 @@
+database:
+  host: $APP_DATABASE_HOST
+  port: $APP_DATABASE_HOST_PORT
+  username: $APP_DATABASE_USER
+  password: $APP_DATABASE_USER_PASSWORD
+  databaseName: $APP_DATABASE_NAME

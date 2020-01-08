@@ -1,0 +1,6 @@
+database:
+  host: $TEST_DATABASE_HOST
+  port: $TEST_DATABASE_HOST_PORT
+  username: $TEST_DATABASE_USER
+  password: $TEST_DATABASE_USER_PASSWORD
+  databaseName: $TEST_DATABASE_NAME
